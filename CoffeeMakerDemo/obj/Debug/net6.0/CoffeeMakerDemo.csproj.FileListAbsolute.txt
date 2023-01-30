@@ -1,0 +1,15 @@
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\bin\Debug\net6.0\CoffeeMakerDemo.exe
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\bin\Debug\net6.0\CoffeeMakerDemo.deps.json
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\bin\Debug\net6.0\CoffeeMakerDemo.runtimeconfig.json
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\bin\Debug\net6.0\CoffeeMakerDemo.dll
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\bin\Debug\net6.0\CoffeeMakerDemo.pdb
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\net6.0\CoffeeMakerDemo.csproj.AssemblyReference.cache
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\net6.0\CoffeeMakerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\net6.0\CoffeeMakerDemo.AssemblyInfoInputs.cache
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\net6.0\CoffeeMakerDemo.AssemblyInfo.cs
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\net6.0\CoffeeMakerDemo.csproj.CoreCompileInputs.cache
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\net6.0\CoffeeMakerDemo.dll
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\net6.0\refint\CoffeeMakerDemo.dll
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\net6.0\CoffeeMakerDemo.pdb
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\net6.0\CoffeeMakerDemo.genruntimeconfig.cache
+C:\Users\91790\Desktop\dotnet\CoffeeMakerDemo\CoffeeMakerDemo\obj\Debug\net6.0\ref\CoffeeMakerDemo.dll
